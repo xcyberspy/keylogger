@@ -50,7 +50,8 @@ Technologies used in the project:
 
 *   Vscode editor
 *   Python
-
+<h2>⚠️ Disclaimer:</h2>
+Warning: This software is intended for educational and research purposes only. It should only be used on systems where you have explicit permission to monitor keystrokes. Misuse of this software may violate privacy laws.
 <h2>🛡️ License:</h2>
 
 This project is licensed under the This project is licensed under the \[xcyberspy\] - see the LICENSE file for details
