@@ -1,42 +1,60 @@
-<h1 align="center">Hi 👋, I'm Wacim(xcyberspy)</h1>
-<h3 align="center">We LOVE <P></h3>
-<p align="center">
-  <img width="460" height="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xcyberspy&label=Profile%20views&color=0e75b6&style=flat" alt="xcyberspy" /> </p>
+<h1 align="center" id="title">keylogger</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xcyberspy" alt="xcyberspy" /></a> </p>
+<p align="center"><img src="https://socialify.git.ci/xcyberspy/keylogger/image?font=KoHo&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-<p align="left"> <a href="https://twitter.com/xcyberspy" target="blank"><img src="https://img.shields.io/twitter/follow/xcyberspy?logo=twitter&style=for-the-badge" alt="xcyberspy" /></a> </p>
+<p id="description">This project is a simple yet powerful keylogger implemented in python. A keylogger also known as keystroke logging or keyboard capturing is the action of recording (logging) the keys struck on a keyboard typically in a covert manner so that the person using the keyboard is unaware that their actions are being monitored. This keylogger captures keystrokes from the user's keyboard input providing a comprehensive record of all the keys pressed.</p>
 
-- 🌱 I’m currently learning **c#**
+<p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="shields"></p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio.chatgptv4.com/](https://portfolio.chatgptv4.com/)
+<h2>🚀 Demo</h2>
 
-- 📝 I regularly write articles on [http://chatgptv4.com/](http://chatgptv4.com/)
+[https://chatgptv4.com/keylogger](https://chatgptv4.com/keylogger)
 
-- 💬 Ask me about **any"thing"**
+<h2>Project Screenshots:</h2>
 
-- 📫 How to reach me **support@chatgptv4.com**
+<img src="https://chatgptv4.com/wp-content/uploads/2024/01/OIG-780x470.jpeg" alt="project-screenshot" width="400" height="400/">
 
-- ⚡ Fun fact **gg is GG**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/xcyberspy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xcyberspy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xspy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xspy" height="30" width="40" /></a>
-<a href="https://instagram.com/xcyberspy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xcyberspy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xcyberspy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xcyberspy" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+  
+  
+<h2>🧐 Features</h2>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/xcyberspy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xcyberspy" /></a></p><br><br>
+Here're some of the project's best features:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcyberspy&show_icons=true&locale=en&layout=compact" alt="xcyberspy" /></p>
+*   Stealth Mode: The keylogger operates silently in the background without the user's knowledge
+*   Keystroke Logging: Captures all keyboard inputs including special keys function keys and alphanumeric characters
+*   Persistence: Automatically starts capturing keystrokes upon system boot
+*   Log File Generation: Stores captured keystrokes in a log file for later analysis
+*   Customization: Easily customizable codebase to tailor the keylogger according to specific requirements
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xcyberspy&show_icons=true&locale=en" alt="xcyberspy" /></p>
+<h2>🛠️ Installation Steps:</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xcyberspy&" alt="xcyberspy" /></p>
+<p>1. Clone it:</p>
+
+```
+git clone https://github.com/xcyberspy/keylogger.git
+```
+
+<p>2. Run it</p>
+
+```
+python key.py
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Vscode editor
+*   Python
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the This project is licensed under the \[xcyberspy\] - see the LICENSE file for details
+
+<h2>💖Like my work?</h2>
+
+<p><a href="https://www.buymeacoffee.com/xcyberspy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a></p>
