@@ -5,7 +5,7 @@
 <p id="description">This project is a simple yet powerful keylogger implemented in python. A keylogger also known as keystroke logging or keyboard capturing is the action of recording (logging) the keys struck on a keyboard typically in a covert manner so that the person using the keyboard is unaware that their actions are being monitored. This keylogger captures keystrokes from the user's keyboard input providing a comprehensive record of all the keys pressed.</p>
 
 <p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="shields"></p>
-
+<p align="center"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="shields"></p>
 <h2>🚀 Demo</h2>
 
 [click here ](here)
