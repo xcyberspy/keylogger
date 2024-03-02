@@ -8,11 +8,11 @@
 
 <h2>🚀 Demo</h2>
 
-[https://chatgptv4.com/keylogger](https://chatgptv4.com/keylogger)
+[click here ](here)
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://chatgptv4.com/wp-content/uploads/2024/01/OIG-780x470.jpeg" alt="project-screenshot" width="400" height="400/">
+<img src="https://media.licdn.com/dms/image/D4E22AQFrG2PkDCjRRA/feedshare-shrink_800/0/1709414098351?e=1712188800&v=beta&t=qPjOjU6yBj9iqCgI51ao0crMPAi1QZiImr9vmEl1RFg" width="1000" height="400/">
 
 
 
@@ -54,7 +54,7 @@ Technologies used in the project:
 Warning: This software is intended for educational and research purposes only. It should only be used on systems where you have explicit permission to monitor keystrokes. Misuse of this software may violate privacy laws.
 <h2>🛡️ License:</h2>
 
-This project is licensed under the This project is licensed under the \[xcyberspy\] - see the LICENSE file for details
+This project is licensed under the This project is licensed under the \[xcyberspy\] 
 
 <h2>💖Like my work?</h2>
 
